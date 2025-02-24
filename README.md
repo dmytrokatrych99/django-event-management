@@ -7,7 +7,7 @@ This project provides a RESTful API for managing events, user registrations, and
 
 ## Project Setup with Docker
 
-### 1️⃣ **Prerequisites**
+###  **Prerequisites**
 - [Docker](https://docs.docker.com/get-docker/) (v20+ recommended)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
